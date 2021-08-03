@@ -1,0 +1,1 @@
+Tem sido fantástico aprender um pouco mais sobre GIT, visto que era algo que eu tinha muito receio por achar complicado demais, porém, o curso me mostrou que não é.
